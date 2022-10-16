@@ -1,0 +1,21 @@
+.blue{
+    color: blue;
+}
+b{
+    color: red;
+}
+body{
+    text-align: center;
+}
+.block_1{
+    padding: 20px;
+}
+p {
+    text-indent: 30px;
+    line-height: 40px;
+    text-align: justify;
+    font-size: 20px;
+    width: 500px;
+    margin: 0 auto ;
+    font-family: sans-serif;
+}
